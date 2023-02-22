@@ -1,6 +1,6 @@
 # iOS 15 Rebuild with tailwindcss
 
-This repository only serves educational purpose and ist based on a video by [Tailwind Labs](https://www.youtube.com/watch?v=eSzNNYk7nVU).
+This repository only serves educational purpose.
 
 ## Steps for the development environment
 
